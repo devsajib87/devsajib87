@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/XxNLb3x5/Professional-Web-Developer-Banner-1.png" alt="Web Designer Wordpress Developer Portfolio" border="0">
+<img src="https://i.ibb.co.com/XxNLb3x5/Professional-Web-Developer-Banner-1.png" alt="Web Designer WordPress Developer Portfolio" border="0">
 
 <h3 align="center">Professional Web Designer Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites.</h3>
 
