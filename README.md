@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **sajibahmedweb@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B2R4GF_Kiv9-9EeoWuizoYEbrKFnAKpa/view?usp=sharing](https://drive.google.com/file/d/1B2R4GF_Kiv9-9EeoWuizoYEbrKFnAKpa/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devsajib87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsajib87" height="30" width="40" /></a>
